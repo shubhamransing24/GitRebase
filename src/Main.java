@@ -10,5 +10,6 @@ public class Main {
         System.out.println("ff1");
         System.out.println("ff2");
         System.out.println("mmm1");
+        System.out.println("mmm2");
     }
 }
