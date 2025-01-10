@@ -6,5 +6,6 @@ public class Main {
         System.out.println("f1");
         System.out.println("f2");
         System.out.println("mm1");
+        System.out.println("mm2");
     }
 }
